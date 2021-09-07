@@ -31,7 +31,7 @@
   },
   "license": "GPL-3.0",
   "dependencies": {
-    "irc-colors": "^1.1.0"
+    "irc-colors": "^1.5.0"
   },
   "optionalDependencies": {
     "iconv": "^3.0.0",
